@@ -1,0 +1,41 @@
+# ── 密钥与凭证（绝不提交）──
+.env
+*.env
+*_cookies.json
+*.sessdata
+.sessdata
+**/sessdata
+*.pem
+*api*key*
+*API_KEY*
+*.key
+*credential*
+*secret*
+
+# ── 个人数据（公开仓库不含真实数据）──
+identity/me.md
+memory/experiences.jsonl
+memory/decisions.jsonl
+memory/failures.jsonl
+memory/worklog/*.md
+network/contacts.jsonl
+network/interactions.jsonl
+operations/goals.yaml
+operations/progress.md
+operations/meetings.jsonl
+operations/metrics.jsonl
+content/01-草稿箱/
+content/02-素材库/
+
+# ── OS / 工具 ──
+.DS_Store
+Thumbs.db
+desktop.ini
+.obsidian/
+logs/
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+*.swp
+*.swo

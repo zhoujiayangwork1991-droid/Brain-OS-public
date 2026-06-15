@@ -1,0 +1,13 @@
+# 复制为 goals.yaml 并填写
+year: 2026
+north_star: "用一句话描述你今年的北极星目标"
+objectives:
+  - id: O1
+    title: "目标一"
+    key_results:
+      - "可量化的 KR 1"
+      - "可量化的 KR 2"
+  - id: O2
+    title: "目标二"
+    key_results:
+      - "可量化的 KR"
