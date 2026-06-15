@@ -22,9 +22,6 @@
 | 「联系人」「加一个人」 | → 追加到 `network/contacts.jsonl` |
 | 「收藏这个」「保存链接」 | → 追加到 `knowledge/bookmarks/index.jsonl` |
 | 「设定目标」 | → 编辑 `operations/goals.yaml` |
-| `/make-slides [主题]`、「做PPT」 | → 加载 `skills/make-slides.md` |
-| `/video-learning [URL]`、`/视频学习 [URL]` | → 加载 `skills/video-learning.md` |
-| `/估值 [公司]`、`/valuation [公司]` | → 加载 `skills/valuation/SKILL.md` |
 | `/find-skills [需求]` | → 加载 `skills/find-skills/SKILL.md` |
 | `/整理记忆` | → 加载 `skills/整理记忆.md`，将 fact.jsonl 归档到各模块 |
 

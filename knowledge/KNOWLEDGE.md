@@ -13,7 +13,6 @@
 
 - 「收藏这个 / 保存链接」→ 追加到 `bookmarks/index.jsonl`
 - 「学习新知识 / 读书」→ 在 `learning/` 下建立课题笔记
-- `/视频学习 [URL]` → 加载 `skills/video-learning.md`
 
 ## 书签格式
 

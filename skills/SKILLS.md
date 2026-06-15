@@ -21,9 +21,6 @@
 
 | 触发词 | 技能文件 | 说明 |
 |--------|---------|------|
-| `/make-slides [主题]` | `make-slides.md` | 用 python-pptx 生成 PPT |
-| `/视频学习 [URL]` / `/video-learning [URL]` | `video-learning.md` | 视频分析 → 学习课题 |
-| `/估值 [公司]` / `/valuation [公司]` | `valuation/SKILL.md` | 企业估值：DCF / DDM / P/E / P/B / EV-EBITDA / P/S |
 | `/find-skills [需求]` | `find-skills/SKILL.md` | 从开放生态搜索、验证、安装新技能包 |
 | `/整理记忆` | `整理记忆.md` | 将 `memory/fact.jsonl` 临时事实归档到各模块 |
 
